@@ -8,3 +8,27 @@
 
 <hr/>
 
+<!-- 🔥 OVERVIEW -->
+<h2>🧠 Overview</h2>
+
+<p>
+<b>PDF Intelligence System</b> is a production-grade Retrieval-Augmented Generation (RAG) platform engineered for intelligent document understanding, semantic retrieval, and contextual conversational AI workflows.
+</p>
+
+<p>
+The system enables users to upload and interact with multiple PDF documents using natural language while maintaining:
+</p>
+
+<ul>
+  <li>🧠 Context-aware reasoning</li>
+  <li>🔍 Semantic information retrieval</li>
+  <li>💬 Conversational document interaction</li>
+  <li>🔗 Source-grounded responses</li>
+  <li>⚡ Scalable AI workflows</li>
+</ul>
+
+<p>
+Designed with a modern AI systems mindset, the platform combines retrieval infrastructure, vector search, and generative AI into a unified enterprise-oriented architecture.
+</p>
+
+<hr/>
