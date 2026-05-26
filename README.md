@@ -69,3 +69,31 @@ Traditional search systems suffer from:
 <hr/>
 
 
+<!-- 🔥 SOLUTION ARCHITECTURE -->
+<h2>⚡ Solution Architecture</h2>
+
+<p>
+The system follows a Retrieval-Augmented Generation (RAG) pipeline designed for scalable document intelligence.
+</p>
+
+<pre>
+PDF Upload
+      ↓
+Document Parsing
+      ↓
+Text Cleaning & Chunking
+      ↓
+Embedding Generation
+      ↓
+Vector Database Indexing
+      ↓
+Semantic Retrieval
+      ↓
+Context Injection into LLM
+      ↓
+Conversational AI Response
+</pre>
+
+<hr/>
+
+
