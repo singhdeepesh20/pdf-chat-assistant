@@ -49,3 +49,23 @@ Organizations work with massive amounts of unstructured PDF data including:
   <li>🏢 Enterprise knowledge bases</li>
 </ul>
 
+
+<p>
+Traditional search systems suffer from:
+</p>
+
+<ul>
+  <li>Keyword dependency</li>
+  <li>Poor contextual understanding</li>
+  <li>Fragmented information access</li>
+  <li>Lack of conversational intelligence</li>
+  <li>Manual document analysis overhead</li>
+</ul>
+
+<p>
+<b>Goal:</b> Build an AI-powered document intelligence system capable of semantic understanding, contextual retrieval, and conversational reasoning over large-scale PDF knowledge sources.
+</p>
+
+<hr/>
+
+
