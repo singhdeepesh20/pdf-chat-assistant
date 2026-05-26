@@ -34,19 +34,19 @@ Designed with a modern AI systems mindset, the platform combines retrieval infra
 <hr/>
 
 <!-- 🔥 INDUSTRY PROBLEM -->
-<h2>🚨 Industry Problem</h2>
+<h2> Industry Problem</h2>
 
 <p>
 Organizations work with massive amounts of unstructured PDF data including:
 </p>
 
 <ul>
-  <li>📚 Research papers</li>
-  <li>⚖️ Legal contracts</li>
-  <li>🏥 Medical reports</li>
-  <li>📈 Financial documents</li>
-  <li>🧾 Technical documentation</li>
-  <li>🏢 Enterprise knowledge bases</li>
+  <li> Research papers</li>
+  <li> Legal contracts</li>
+  <li> Medical reports</li>
+  <li> Financial documents</li>
+  <li> Technical documentation</li>
+  <li> Enterprise knowledge bases</li>
 </ul>
 
 
