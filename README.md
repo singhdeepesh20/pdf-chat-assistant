@@ -96,4 +96,23 @@ Conversational AI Response
 
 <hr/>
 
+<!-- 🔥 CORE FEATURES -->
+<h2>🚀 Core Features</h2>
+
+<ul>
+  <li>📄 <b>Multi-PDF Document Ingestion</b> → Upload and process multiple PDFs simultaneously</li>
+  
+  <li>🧠 <b>Semantic Retrieval Engine</b> → Meaning-based vector search over documents</li>
+  
+  <li>💬 <b>Conversational AI Workflows</b> → Natural language interaction with uploaded files</li>
+  
+  <li>🔎 <b>Contextual Question Answering</b> → Source-grounded responses using retrieved context</li>
+  
+  <li>⚡ <b>Production-Oriented RAG Pipeline</b> → Modular and scalable architecture</li>
+  
+  <li>🔗 <b>Multi-Document Intelligence</b> → Cross-document reasoning and querying</li>
+</ul>
+
+<hr/>
+
 
