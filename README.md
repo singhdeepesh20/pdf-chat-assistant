@@ -149,4 +149,14 @@ Conversational AI Response
 
 <hr/>
 
+<h3>🔍 4. Retrieval Engine</h3>
+
+<ul>
+  <li>Top-k document retrieval</li>
+  <li>Context ranking & filtering</li>
+  <li>Query-aware retrieval optimization</li>
+</ul>
+
+<hr/>
+
 
