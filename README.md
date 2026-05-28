@@ -115,4 +115,38 @@ Conversational AI Response
 
 <hr/>
 
+<!-- 🔥 SYSTEM COMPONENTS -->
+<h2>🔑 System Components</h2>
+
+<h3>📥 1. Document Ingestion Layer</h3>
+
+<ul>
+  <li>PDF loading & parsing</li>
+  <li>Text extraction pipelines</li>
+  <li>Recursive chunking strategies</li>
+  <li>Document preprocessing workflows</li>
+</ul>
+
+<hr/>
+
+<h3>🧠 2. Embedding Layer</h3>
+
+<ul>
+  <li>Dense vector generation</li>
+  <li>Semantic document representation</li>
+  <li>Similarity-search optimization</li>
+</ul>
+
+<hr/>
+
+<h3>🗂️ 3. Vector Database</h3>
+
+<ul>
+  <li>FAISS vector indexing</li>
+  <li>Approximate nearest-neighbor retrieval</li>
+  <li>High-speed semantic search</li>
+</ul>
+
+<hr/>
+
 
