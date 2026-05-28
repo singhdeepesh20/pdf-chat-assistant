@@ -159,4 +159,14 @@ Conversational AI Response
 
 <hr/>
 
+<h3>🤖 5. Generation Layer</h3>
+
+<ul>
+  <li>LLM-powered contextual reasoning</li>
+  <li>Grounded response generation</li>
+  <li>Reduced hallucination workflows</li>
+</ul>
+
+<hr/>
+
 
