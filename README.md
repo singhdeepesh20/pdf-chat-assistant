@@ -170,3 +170,23 @@ Conversational AI Response
 <hr/>
 
 
+<!-- 🔥 TECH STACK -->
+<h2>🛠️ Tech Stack</h2>
+
+<p>
+<b>Backend:</b> FastAPI, Python
+</p>
+
+<p>
+<b>AI Frameworks:</b> LangChain, LangGraph
+</p>
+
+<p>
+<b>Embeddings:</b> HuggingFace Sentence Transformers
+</p>
+
+<p>
+<b>Vector Databases:</b> FAISS, Pinecone
+</p>
+
+
