@@ -199,3 +199,23 @@ Conversational AI Response
 
 <hr/>
 
+<!-- 🔥 ENGINEERING HIGHLIGHTS -->
+<h2>📊 Engineering Highlights</h2>
+
+<ul>
+  <li>⚡ Production-grade RAG implementation</li>
+  
+  <li>🧩 Modular and extensible architecture</li>
+  
+  <li>📈 Scalable vector retrieval pipelines</li>
+  
+  <li>🧠 Multi-document conversational intelligence</li>
+  
+  <li>🔄 Retrieval-grounded generation workflows</li>
+  
+  <li> Enterprise-oriented system design</li>
+</ul>
+
+<hr/>
+
+
