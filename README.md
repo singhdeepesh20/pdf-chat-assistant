@@ -189,4 +189,13 @@ Conversational AI Response
 <b>Vector Databases:</b> FAISS, Pinecone
 </p>
 
+<p>
+<b>LLMs:</b> Groq, Ollama, Open-source Models
+</p>
+
+<p>
+<b>Frontend:</b> Streamlit, React
+</p>
+
+<hr/>
 
