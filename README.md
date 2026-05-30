@@ -257,7 +257,7 @@ Conversational AI Response
 <hr/>
 
 <!-- 🔥 REAL-WORLD APPLICATIONS -->
-<h2>💡 Real-World Applications</h2>
+<h2> Real-World Applications</h2>
 
 <ul>
   <li>📚 Research Assistants</li>
