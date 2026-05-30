@@ -237,4 +237,23 @@ Conversational AI Response
 
 <hr/>
 
+<!-- 🔥 SYSTEM CAPABILITIES -->
+<h2>⚡ System Capabilities</h2>
+
+<ul>
+  <li>🔎 Semantic Search</li>
+  
+  <li>🧠 Contextual Reasoning</li>
+  
+  <li>💬 Conversational Memory Workflows</li>
+  
+  <li>⚡ Low-Latency Retrieval</li>
+  
+  <li>🔗 Explainable AI Responses</li>
+  
+  <li>📈 Scalable Document Intelligence</li>
+</ul>
+
+<hr/>
+
 
