@@ -273,6 +273,19 @@ Conversational AI Response
   <li> Autonomous Research Agents</li>
 </ul>
 
+<!-- 🔥 RESEARCH PERSPECTIVE -->
+<h2>📄 Research Perspective</h2>
+
+<h3>Abstract</h3>
+
+<p>
+This project demonstrates how Retrieval-Augmented Generation (RAG) architectures can transform traditional document systems into intelligent conversational AI platforms.
+</p>
+
+<p>
+By integrating semantic retrieval with Large Language Models, the system enables:
+</p>
+
 <hr/>
 
 
