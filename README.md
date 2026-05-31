@@ -287,5 +287,15 @@ By integrating semantic retrieval with Large Language Models, the system enables
 </p>
 
 <hr/>
+<ul>
+  <li>Context-aware reasoning</li>
+  <li>Reliable document-grounded responses</li>
+  <li>Multi-document intelligence</li>
+  <li>Reduced hallucination</li>
+</ul>
+
+<p>
+The architecture reflects modern AI engineering approaches used in enterprise knowledge systems and next-generation document intelligence infrastructure.
+</p>
 
 
