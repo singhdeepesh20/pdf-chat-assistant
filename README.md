@@ -20,11 +20,11 @@ The system enables users to upload and interact with multiple PDF documents usin
 </p>
 
 <ul>
-  <li>🧠 Context-aware reasoning</li>
-  <li>🔍 Semantic information retrieval</li>
-  <li>💬 Conversational document interaction</li>
-  <li>🔗 Source-grounded responses</li>
-  <li>⚡ Scalable AI workflows</li>
+  <li> Context-aware reasoning</li>
+  <li> Semantic information retrieval</li>
+  <li> Conversational document interaction</li>
+  <li> Source-grounded responses</li>
+  <li> Scalable AI workflows</li>
 </ul>
 
 <p>
