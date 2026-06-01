@@ -171,7 +171,7 @@ Conversational AI Response
 
 
 <!-- 🔥 TECH STACK -->
-<h2>🛠️ Tech Stack</h2>
+<h2> Tech Stack</h2>
 
 <p>
 <b>Backend:</b> FastAPI, Python
