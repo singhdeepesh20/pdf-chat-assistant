@@ -97,7 +97,7 @@ Conversational AI Response
 <hr/>
 
 <!-- 🔥 CORE FEATURES -->
-<h2>🚀 Core Features</h2>
+<h2> Core Features</h2>
 
 <ul>
   <li> <b>Multi-PDF Document Ingestion</b> → Upload and process multiple PDFs simultaneously</li>
@@ -116,7 +116,7 @@ Conversational AI Response
 <hr/>
 
 <!-- 🔥 SYSTEM COMPONENTS -->
-<h2>🔑 System Components</h2>
+<h2> System Components</h2>
 
 <h3>📥 1. Document Ingestion Layer</h3>
 
