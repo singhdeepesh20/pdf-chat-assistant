@@ -118,7 +118,7 @@ Conversational AI Response
 <!-- 🔥 SYSTEM COMPONENTS -->
 <h2> System Components</h2>
 
-<h3>📥 1. Document Ingestion Layer</h3>
+<h3> 1. Document Ingestion Layer</h3>
 
 <ul>
   <li>PDF loading & parsing</li>
@@ -129,7 +129,7 @@ Conversational AI Response
 
 <hr/>
 
-<h3>🧠 2. Embedding Layer</h3>
+<h3> 2. Embedding Layer</h3>
 
 <ul>
   <li>Dense vector generation</li>
@@ -139,7 +139,7 @@ Conversational AI Response
 
 <hr/>
 
-<h3>🗂️ 3. Vector Database</h3>
+<h3> 3. Vector Database</h3>
 
 <ul>
   <li>FAISS vector indexing</li>
