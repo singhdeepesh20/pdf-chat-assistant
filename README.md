@@ -274,7 +274,7 @@ Conversational AI Response
 </ul>
 
 <!-- 🔥 RESEARCH PERSPECTIVE -->
-<h2>📄 Research Perspective</h2>
+<h2> Research Perspective</h2>
 
 <h3>Abstract</h3>
 
