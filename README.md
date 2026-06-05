@@ -327,4 +327,27 @@ The architecture reflects modern AI engineering approaches used in enterprise kn
 
 <hr/>
 
+<!-- 🔥 INDUSTRY ALIGNMENT -->
+<h2>🎯 Industry Alignment</h2>
+
+<p>
+This project reflects capabilities relevant to:
+</p>
+
+<ul>
+  <li>Applied AI Engineering</li>
+  
+  <li>Enterprise RAG Systems</li>
+  
+  <li>LLM Infrastructure Engineering</li>
+  
+  <li>Knowledge Intelligence Platforms</li>
+  
+  <li>AI Product Engineering</li>
+  
+  <li>Autonomous Information Retrieval Systems</li>
+</ul>
+
+<hr/>
+
 
