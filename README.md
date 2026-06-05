@@ -298,4 +298,12 @@ By integrating semantic retrieval with Large Language Models, the system enables
 The architecture reflects modern AI engineering approaches used in enterprise knowledge systems and next-generation document intelligence infrastructure.
 </p>
 
+<h3>Key Insight</h3>
+
+<p>
+<b>Modern AI systems are not built solely on language models — they are built on the integration of retrieval, memory, reasoning, and scalable infrastructure.</b>
+</p>
+
+<hr/>
+
 
