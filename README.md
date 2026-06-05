@@ -306,4 +306,25 @@ The architecture reflects modern AI engineering approaches used in enterprise kn
 
 <hr/>
 
+<!-- 🔥 FUTURE ROADMAP -->
+<h2>🔮 Future Enhancements</h2>
+
+<ul>
+  <li>Hybrid Retrieval (BM25 + Dense Search)</li>
+  
+  <li>Cross-Encoder Re-ranking</li>
+  
+  <li>Agentic Retrieval Workflows</li>
+  
+  <li>Streaming LLM Responses</li>
+  
+  <li>Cloud-Native Deployment</li>
+  
+  <li>Docker + Kubernetes Orchestration</li>
+  
+  <li>Multi-Modal Document Intelligence</li>
+</ul>
+
+<hr/>
+
 
