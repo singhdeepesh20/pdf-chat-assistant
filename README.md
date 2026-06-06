@@ -367,4 +367,8 @@ This project reflects capabilities relevant to:
 <b>“Building intelligent systems that retrieve, understand, reason, and converse over human knowledge at scale.”</b>
 </p>
 
+<!-- 🔥 FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:0f172a&height=120&section=footer"/>
+</p>
 
