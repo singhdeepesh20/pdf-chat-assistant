@@ -350,4 +350,14 @@ This project reflects capabilities relevant to:
 
 <hr/>
 
+<!-- 🔥 AUTHOR -->
+<h2>👨‍💻 Author</h2>
+
+<p align="center">
+  <b>Deepesh Singh</b><br/>
+  AI Engineer | GenAI Systems | RAG Architect | Applied AI
+</p>
+
+<hr/>
+
 
