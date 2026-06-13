@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">📄 PDF CHAT ASSISTANT</h1>
-<h3 align="center">Production-Ready RAG Architecture for Document Understanding & Conversational AI</h3>
+<h3 align="center">Production-Ready RAG Architecture for Document Understanding & Conversational </h3>
 
 <hr/>
 
