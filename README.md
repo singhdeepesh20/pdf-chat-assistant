@@ -199,6 +199,32 @@ Conversational AI Response
 
 <hr/>
 
+<h2>Getting Started</h2>
+
+### Backend
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+uvicorn app:app --reload --port 8000
+```
+
+### Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+Open the React frontend at `http://localhost:5173` and ensure the backend is running at `http://localhost:8000`.
+
+> The frontend uses FastAPI CORS, so it can send requests to the backend from the local dev server.
+
+<hr/>
+
+
 <!-- 🔥 ENGINEERING HIGHLIGHTS -->
 <h2> Engineering Highlights</h2>
 
