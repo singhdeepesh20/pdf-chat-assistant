@@ -12,7 +12,7 @@
 <h2> Overw</h2>
 
 <p>
-<b>PDF Intellige </b> is a production-grade Retrieval-Augmented Generation (RAG) platform engineered for intelligent document understanding, semantic retrieval, and contextual conversational AI workflows.
+<b>PDF Intelligence </b> is a production-grade Retrieval-Augmented Generation (RAG) platform engineered for intelligent document understanding, semantic retrieval, and contextual conversational AI workflows.
 </p>
 
 <p>
