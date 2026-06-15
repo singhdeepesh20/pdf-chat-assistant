@@ -100,7 +100,7 @@ async def ask_question(request: QueryRequest):
 
     llm = ChatGroq(
         model_name="openai/gpt-oss-20b",
-        api_key="<REDACTED>",
+        api_key=os.getenv("GROQ_API_KEY"),
         temperature=0,
     )
 
