@@ -46,7 +46,7 @@ class QueryRequest(BaseModel):
 async def upload_pdf(file: UploadFile = File(...)):
     global vectorstore
 
-    # Save uploaded PDF temporarily
+    
     with tempfile.NamedTemporaryFile(
         delete=False,
         suffix=".pdf",
