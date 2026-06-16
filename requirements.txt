@@ -16,3 +16,4 @@ sentence-transformers
 pypdf
 
 python-dotenv
+faiss
