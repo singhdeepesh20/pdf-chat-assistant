@@ -32,7 +32,7 @@ app.add_middleware(
 # Global vector store
 vectorstore = None
 
-# Embeddings model
+
 embeddings = HuggingFaceEmbeddings(
     model_name="BAAI/bge-small-en-v1.5"
 )
