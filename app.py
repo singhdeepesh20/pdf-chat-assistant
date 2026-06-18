@@ -56,7 +56,7 @@ async def upload_pdf(file: UploadFile = File(...)):
         pdf_path = tmp.name
 
     try:
-        # Load PDF
+
         loader = PyPDFLoader(pdf_path)
         docs = loader.load()
 
