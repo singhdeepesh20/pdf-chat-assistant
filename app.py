@@ -42,7 +42,7 @@ class QueryRequest(BaseModel):
     query: str
 
 
-@app.post("/upload")
+@app.post("/upload Pdf")
 async def upload_pdf(file: UploadFile = File(...)):
     global vectorstore
 
