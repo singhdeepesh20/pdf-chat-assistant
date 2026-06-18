@@ -21,13 +21,7 @@ from langchain_classic.chains import (
 
 app = FastAPI()
 
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
+
 
 # Global vector store
 vectorstore = None
