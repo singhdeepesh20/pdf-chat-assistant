@@ -144,6 +144,6 @@ async def ask_question(request: QueryRequest):
 @app.get("/")
 async def root():
     return {
-        "message": "FastAPI RAG API is running"
+        "message": "FastAPI RAG API is "
     }
 
