@@ -23,7 +23,7 @@ app = FastAPI()
 
 
 
-# Global vector store
+
 vectorstore = None
 
 
