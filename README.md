@@ -267,17 +267,17 @@ Open the React frontend at `http://localhost:5173` and ensure the backend is run
 <h2>⚡ System Capabilities</h2>
 
 <ul>
-  <li>🔎 Semantic Search</li>
+  <li> Semantic Search</li>
   
-  <li>🧠 Contextual Reasoning</li>
+  <li> Contextual Reasoning</li>
   
-  <li>💬 Conversational Memory Workflows</li>
+  <li> Conversational Memory Workflows</li>
   
-  <li>⚡ Low-Latency Retrieval</li>
+  <li> Low-Latency Retrieval</li>
   
-  <li>🔗 Explainable AI Responses</li>
+  <li> Explainable AI Responses</li>
   
-  <li>📈 Scalable Document Intelligence</li>
+  <li> Scalable Document Intelligence</li>
 </ul>
 
 <hr/>
