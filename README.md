@@ -46,7 +46,6 @@ Organizations work with massive amounts of unstructured PDF data including:
   <li> Medical reports</li>
   <li> Financial documents</li>
   <li> Technical documentation</li>
-  <li> Enterprise knowledge bases</li>
 </ul>
 
 
