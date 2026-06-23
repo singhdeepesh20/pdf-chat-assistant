@@ -69,7 +69,7 @@ Traditional search systems suffer from:
 
 
 <!-- 🔥 SOLUTION ARCHITECTURE -->
-<h2>⚡ Solution Architecture</h2>
+<h2> Solution Architecture</h2>
 
 <p>
 The system follows a Retrieval-Augmented Generation (RAG) pipeline designed for scalable document intelligence.
