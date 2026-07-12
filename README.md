@@ -11,7 +11,8 @@
 
 </div>
 
-
+</div>
+<img src="assets/architecture.svg" width="100%"/>
 
 ## Overview
 
