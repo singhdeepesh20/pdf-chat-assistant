@@ -53,7 +53,28 @@ This retrieval-first workflow significantly reduces hallucinations and ensures r
 - Intelligent recursive chunking
 - Embedding generation using HuggingFace models
 
+### Semantic Retrieval
 
+- Vector similarity search
+- Top-k document retrieval
+- Persistent ChromaDB storage
+- Fast semantic lookup
+
+### Grounded Generation
+
+- Context-aware answers
+- Hallucination reduction
+- Explicit fallback when information is unavailable
+- Groq-powered low latency inference
+
+### Modern API
+
+- FastAPI backend
+- RESTful endpoints
+- React frontend
+- Easy deployment
+
+---
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E3A8A,100:0F172A&height=100&section=footer" width="100%"/>
 </div>
