@@ -26,6 +26,34 @@ Upload a PDF, retrieve relevant context through semantic search, and generate gr
 
 ---
 
+## Overview
+
+**PDF RAG Assistant** is a Retrieval-Augmented Generation (RAG) application that enables users to interact with PDF documents using natural language.
+
+Instead of relying solely on an LLM's internal knowledge, the system retrieves the most relevant sections of the uploaded document through semantic similarity search and uses them as context for answer generation.
+
+This retrieval-first workflow significantly reduces hallucinations and ensures responses remain grounded in the uploaded document.
+
+---
+
+## Demo Architecture
+
+<p align="center">
+<img src="assets/architecture.svg" width="100%">
+</p>
+
+---
+
+# Key Features
+
+### Document Processing
+
+- Upload PDF documents
+- Automatic text extraction
+- Intelligent recursive chunking
+- Embedding generation using HuggingFace models
+
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E3A8A,100:0F172A&height=100&section=footer" width="100%"/>
 </div>
