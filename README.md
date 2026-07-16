@@ -75,6 +75,57 @@ This retrieval-first workflow significantly reduces hallucinations and ensures r
 - Easy deployment
 
 ---
+
+# System Architecture
+
+```text
+                  Upload PDF
+                       │
+                       ▼
+             PyPDFLoader (LangChain)
+                       │
+                       ▼
+       RecursiveCharacterTextSplitter
+        Chunk Size: 1000 | Overlap: 200
+                       │
+                       ▼
+      HuggingFace Embedding Model
+      BAAI/bge-small-en-v1.5
+                       │
+                       ▼
+                Chroma Vector DB
+              (Persistent Storage)
+                       │
+               Similarity Search
+                  Top K = 4
+                       │
+                       ▼
+         Retrieved Relevant Chunks
+                       │
+                       ▼
+          LangChain Retrieval Chain
+                       │
+                       ▼
+              ChatGroq (GPT-OSS)
+                       │
+                       ▼
+               Grounded Response
+```
+
+---
+
+# Tech Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| Backend | FastAPI, LangChain |
+| Frontend | React.js |
+| Vector Database | ChromaDB |
+| Embeddings | HuggingFace BAAI/bge-small-en-v1.5 |
+| LLM | Groq (GPT-OSS 20B) |
+| Language | Python 3.10+, JavaScript |
+
+---
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E3A8A,100:0F172A&height=100&section=footer" width="100%"/>
 </div>
