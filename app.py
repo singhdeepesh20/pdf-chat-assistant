@@ -61,7 +61,6 @@ async def upload_pdf(file: UploadFile = File(...)):
 
         chunks = splitter.split_documents(docs)
 
-        # Create vector store
         vectorstore = Chroma.from_documents(
             documents=chunks,
             embedding=embeddings,
