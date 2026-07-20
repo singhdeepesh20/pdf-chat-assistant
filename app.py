@@ -54,7 +54,6 @@ async def upload_pdf(file: UploadFile = File(...)):
         loader = PyPDFLoader(pdf_path)
         docs = loader.load()
 
-        # Split documents
         splitter = RecursiveCharacterTextSplitter(
             chunk_size=1000,
             chunk_overlap=200,
