@@ -186,9 +186,9 @@ pdf-rag-assistant/
 
 ---
 
-# API Endpoints
+## API Endpoints
 
-## Upload PDF
+### Upload PDF
 
 ```http
 POST /upload_pdf
