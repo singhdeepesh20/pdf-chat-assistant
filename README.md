@@ -43,30 +43,30 @@ This retrieval-first workflow significantly reduces hallucinations and ensures r
 
 ---
 
-# Key Features
+### Key Features
 
-### Document Processing
+#### Document Processing
 
 - Upload PDF documents
 - Automatic text extraction
 - Intelligent recursive chunking
 - Embedding generation using HuggingFace models
 
-### Semantic Retrieval
+#### Semantic Retrieval
 
 - Vector similarity search
 - Top-k document retrieval
 - Persistent ChromaDB storage
 - Fast semantic lookup
 
-### Grounded Generation
+#### Grounded Generation
 
 - Context-aware answers
 - Hallucination reduction
 - Explicit fallback when information is unavailable
 - Groq-powered low latency inference
 
-### Modern API
+#### Modern API
 
 - FastAPI backend
 - RESTful endpoints
