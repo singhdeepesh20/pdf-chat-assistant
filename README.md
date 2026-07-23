@@ -75,7 +75,7 @@ This retrieval-first workflow significantly reduces hallucinations and ensures r
 
 ---
 
-# System Architecture
+### System Architecture
 
 ```text
                   Upload PDF
@@ -113,7 +113,7 @@ This retrieval-first workflow significantly reduces hallucinations and ensures r
 
 ---
 
-# Tech Stack
+### Tech Stack
 
 | Category | Technologies |
 |-----------|--------------|
