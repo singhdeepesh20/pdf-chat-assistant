@@ -25,7 +25,7 @@ Upload a PDF, retrieve relevant context through semantic search, and generate gr
 
 ---
 
-## Overview
+### Overview
 
 **PDF RAG Assistant** is a Retrieval-Augmented Generation (RAG) application that enables users to interact with PDF documents using natural language.
 
@@ -35,7 +35,7 @@ This retrieval-first workflow significantly reduces hallucinations and ensures r
 
 ---
 
-## Demo Architecture
+### Demo Architecture
 
 <p align="center">
 <img src="assets/architecture.svg" width="100%">
