@@ -75,7 +75,7 @@ This retrieval-first workflow significantly reduces hallucinations and ensures r
 
 ---
 
-### System Architecture
+#### System DESIGN
 
 ```text
                   Upload PDF
