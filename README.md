@@ -35,7 +35,7 @@ This retrieval-first workflow significantly reduces hallucinations and ensures r
 
 ---
 
-### Demo Architecture
+#### Demo Architecture
 
 <p align="center">
 <img src="assets/architecture.svg" width="100%">
@@ -43,7 +43,7 @@ This retrieval-first workflow significantly reduces hallucinations and ensures r
 
 ---
 
-### Key Features
+#### Key Features
 
 #### Document Processing
 
