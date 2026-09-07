@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=200&section=header&text=PDF%20RAG%20Assistant&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Retrieval-Augmented%20Question%20Answering%20over%20PDF%20Documents&descAlignY=58&descSize=16" width="100%" />
 
 
-#### Ask Questions Over PDFs Using Retrieval Augument Generation 
+#### Ask Questions Over PDFs Using  
 
 <p>
 A production-inspired document intelligence system built with <b>FastAPI</b>, <b>LangChain</b>, <b>ChromaDB</b>, <b>React</b>, and <b>Groq</b>.
